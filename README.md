@@ -24,10 +24,6 @@ At the heart of the **Quantum Coin Game** resides the captivating and thought-pr
     
 🎭 In the realm of the Quantum Coin Game, the term **"playing a move"** harmoniously resonates with the essence of **"flipping the coin"**, with the coin assumed to possess inherent fairness.
 
-## References 🔗 
-* [Ted talk by Sohini Ghosh](https://www.ted.com/talks/shohini_ghose_a_beginner_s_guide_to_quantum_computing#t-208006).
-* [Quantum Coin Flipping from Wikipedia](https://en.wikipedia.org/wiki/Quantum_coin_flipping).
-
 
 
 
@@ -45,3 +41,13 @@ As you delve into the intricacies of the Quantum Coin Game, gather your minds in
 - **What if:** Certain gates are restricted, rather than utilizing the entire spectrum of gates?
 
 🔍 Delve into these intriguing possibilities, for within them lie unexplored dimensions of the Quantum Coin Game's universe.
+
+
+
+
+
+## References 🔗 
+* [Ted talk by Sohini Ghosh](https://www.ted.com/talks/shohini_ghose_a_beginner_s_guide_to_quantum_computing#t-208006).
+* [Quantum Coin Flipping from Wikipedia](https://en.wikipedia.org/wiki/Quantum_coin_flipping).
+
+
