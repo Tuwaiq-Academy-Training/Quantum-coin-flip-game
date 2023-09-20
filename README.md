@@ -38,7 +38,7 @@ As you delve into the intricacies of the Quantum Coin Game, gather your minds in
 - **What if:** We depart from the realm of fairness and introduce an unfair coin?
 - **What if:** The quantum computer engages in a duel with another quantum computer instead of a classical human?
 - **What if:** The number of turns isn't limited to three, but instead spans a dynamic range?
-- **What if:** Certain gates are restricted, rather than utilizing the entire spectrum of gates?
+- **What if:** instead of using all gates the use of some gates(X,I and H) ?
 
 🔍 Delve into these intriguing possibilities, for within them lie unexplored dimensions of the Quantum Coin Game's universe.
 
